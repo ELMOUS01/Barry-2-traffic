@@ -1,5 +1,5 @@
 {
-    "Link1": "link-1",
-    "Link2": "link-2",
+    "Link1": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0DQHBVVMV",
+    "Link2": "amzn://apps/android?asin=B0DQHBVVMV",
     "Panel3": "true"
 }
